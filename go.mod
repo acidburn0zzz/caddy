@@ -29,7 +29,7 @@ require (
 	golang.org/x/net v0.0.0-20210913180222-943fd674d43e
 	golang.org/x/term v0.0.0-20210503060354-a79de5458b56
 	google.golang.org/genproto v0.0.0-20210831024726-fe130286e0e2
-	google.golang.org/protobuf v1.27.1
+	google.golang.org/protobuf v1.33.0
 	gopkg.in/natefinch/lumberjack.v2 v2.0.0
 	gopkg.in/yaml.v2 v2.4.0
 )
